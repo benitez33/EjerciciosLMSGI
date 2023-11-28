@@ -1,0 +1,7 @@
+Secuencia (sequence). Se podrán incorporar elementos hijos en un
+determinado orden y con una cardinalidad determinada.
+Elección (choice). De los elementos declarados sólo podrás utilizar uno,
+con una determinada cardinalidad.
+Todos (all). Puede utilizar todos los elementos declarados y en cualquier
+orden y con cardinalidad determinada. Se desaconseja el uso de esta
+estructura.
