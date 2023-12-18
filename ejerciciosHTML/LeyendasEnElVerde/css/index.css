@@ -1,0 +1,41 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    background:#1A1A1A;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    margin: 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+span {
+    color: #35682d;
+}
+
+.nav {
+    background-color: #050505;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 19.25px;
+    text-decoration: none;
+    font-size: 19px;
+  }
+
+.nav a:hover {
+    background: #f1f1f1;
+    color: black;
+  }
+
+.nav a.active {
+    background-color: #35682d;
+    color:#ffffff;
+  }
+
